@@ -174,7 +174,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"📚{get_size(file.file_size)}📚 ➜ {file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"🪩{get_size(file.file_size)} ➜ {file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
@@ -1217,7 +1217,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "stats":
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help'),
-            InlineKeyboardButton('🔄 ʀᴇғʀᴇsʜ 🔄', callback_data='rfrsh')
+            InlineKeyboardButton('🧊 ʀᴇғʀᴇsʜ 🧊', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -1236,7 +1236,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer("ғᴇᴛᴄʜɪɴɢ ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀsᴇ ")
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help'),
-            InlineKeyboardButton('🔄 ʀᴇғʀᴇsʜ 🔄', callback_data='rfrsh')
+            InlineKeyboardButton('🧊 ʀᴇғʀᴇsʜ 🧊', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -1331,7 +1331,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"📚{get_size(file.file_size)}📚 ➜ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"🪩{get_size(file.file_size)} ➜ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
