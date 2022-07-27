@@ -10,7 +10,7 @@ class script(object):
 
     HELP_TXT = """<b>𝙷𝙴𝚈 𝙱𝚄𝙳𝙳𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
-    ABOUT_TXT = """<b>😎 Mʏ Nᴀᴍᴇ : <a href=https://t.me/mkvstevefilter_bot>💔 ѕτєνє нαяяιиgτοи 💔</a></b>
+    ABOUT_TXT = """<b>😎 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/mkvstevefilter_bot>💔 ѕτєνє нαяяιиgτοи 💔</a></b>
 <b>🫂 ᴍʏ ғʀɪᴇɴᴅ : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
 <b>🇵🇷 ᴄᴏᴜɴᴛʀʏ :  <a href=https://www.google.com/search?q=USA+&ei=Z3rKYvOXGtS34t4Pp6mEgAU&ved=0ahUKEwiz5_KR4e34AhXUm9gFHacUAVAQ4dUDCA4&uact=5&oq=USA+&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyBAgAEEMyBggAEAoQQzIECAAQQzIGCAAQChBDMgQIABBDMgcIABCxAxBDOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6DAguEMgDELADEEMYAjoHCC4QsQMQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoOCAAQgAQQsQMQgwEQyQM6BAguEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToNCC4QsQMQgwEQ1AIQQzoKCC4QxwEQowIQQzoKCC4QsQMQgwEQQ0oECEEYAEoECEYYAVCFCljAHGD_OmgCcAF4A4AB3ASIAd8dkgEHMi0yLjUtNpgBAKABAbABCsgBEMABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz#>ᴜsᴀ</a></b>
 <b>🔊 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://en.wikipedia.org/wiki/English_language>ᴇɴɢʟɪsʜ</a></b>
