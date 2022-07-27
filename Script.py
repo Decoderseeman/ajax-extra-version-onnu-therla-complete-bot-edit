@@ -11,14 +11,14 @@ class script(object):
     HELP_TXT = """<b>𝙷𝙴𝚈 𝙱𝚄𝙳𝙳𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
     ABOUT_TXT = """<b>😎 Mʏ Nᴀᴍᴇ : <a href=https://t.me/mkvstevefilter_bot>💔 ѕτєνє нαяяιиgτοи 💔</a></b>
-<b>🫂 Mʏ Fʀɪᴇɴᴅ : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
-<b>🇵🇷 Cᴏᴜɴᴛʀʏ :  <a href=https://www.google.com/search?q=USA+&ei=Z3rKYvOXGtS34t4Pp6mEgAU&ved=0ahUKEwiz5_KR4e34AhXUm9gFHacUAVAQ4dUDCA4&uact=5&oq=USA+&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyBAgAEEMyBggAEAoQQzIECAAQQzIGCAAQChBDMgQIABBDMgcIABCxAxBDOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6DAguEMgDELADEEMYAjoHCC4QsQMQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoOCAAQgAQQsQMQgwEQyQM6BAguEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToNCC4QsQMQgwEQ1AIQQzoKCC4QxwEQowIQQzoKCC4QsQMQgwEQQ0oECEEYAEoECEYYAVCFCljAHGD_OmgCcAF4A4AB3ASIAd8dkgEHMi0yLjUtNpgBAKABAbABCsgBEMABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz#>USA</a></b>
-<b>🔊 Lᴀɴɢᴜᴀɢᴇ : <a href=https://en.wikipedia.org/wiki/English_language>Eɴɢʟɪsʜ</a></b>
-<b>🗽 Sᴛᴀᴛᴇ : <a href=https://www.google.com/search?q=texas&ei=uozKYoTTHvjNseMP9P-Y6A0&gs_ssp=eJzj4tDP1TcwT4rPMWD0Yi1JrUgsBgAqsgUX&oq=texas&gs_lcp=Cgdnd3Mtd2l6EAEYADIICC4QsQMQkQIyBAgAEEMyBAgAEEMyCgguELEDENQCEEMyCgguELEDEIMBEEMyDQguELEDEIMBENQCEEMyDggAEIAEELEDEIMBEMkDMhEILhCABBCxAxCDARDHARDRAzIOCC4QgAQQsQMQgwEQ1AIyCwgAEIAEELEDEIMBOgcIABBHELADOgcIABCwAxBDOgcIABCxAxBDOgUIABCABDoKCAAQ6gIQtAIQQzoKCAAQsQMQgwEQQzoQCC4QsQMQgwEQxwEQ0QMQQzoICAAQsQMQgwE6BwguELEDEEM6DAgAELEDEIMBEAoQQzoRCC4QgAQQsQMQgwEQxwEQrwFKBAhBGABKBAhGGABQ1gpYxyhgiDtoAnABeAOAAdYBiAHEEZIBBjAuMTUuMZgBAKABAbABCsgBCsABAQ&sclient=gws-wiz#>Tᴇxᴀs</a></b>
-<b>🪴 Bᴏʀɴ : <a href=https://www.google.com/search?q=hawkins+city&ei=1ozKYvWeL8KUseMPkNefwAc&gs_ssp=eJzj4tTP1TcwNEhONjRg9OLJSCzPzswrVkjOLKkEAFl_B7w&oq=haw&gs_lcp=Cgdnd3Mtd2l6EAEYAzIHCC4QsQMQQzIQCC4QsQMQgwEQxwEQowIQQzIECAAQQzIKCC4QsQMQgwEQQzIHCC4Q1AIQQzIECAAQQzIECAAQQzIECAAQQzILCC4QgAQQsQMQ1AIyBwguENQCEEM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DQgAEOQCELADEMkDGAE6DwguENQCEMgDELADEEMYAjoMCC4QyAMQsAMQQxgCOgoILhDHARDRAxBDOgoIABCxAxCDARBDOgcIABCxAxBDOg4IABCABBCxAxCDARDJAzoECC4QQzoNCC4Q1AIQ6gIQtAIQQzoKCC4Q6gIQtAIQQzoLCAAQgAQQsQMQgwE6CggAELEDEIMBEAo6CAgAELEDEIMBOhEILhCABBCxAxCDARDHARCjAjoICC4QsQMQgwE6CgguEMcBEKMCEENKBAhBGABKBAhGGAFQrQtYjR9ghTdoAnABeAOAAdkBiAH1B5IBBTAuNi4xmAEAoAEBsAEKyAEQwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz#>Hᴀᴡᴋɪɴs</a></b>
-<b>❤️‍🔥 Mʏ Lᴏᴠᴇʀ : <a href=https://www.google.com/search?q=nancy+wheeler&ei=Ro3KYqShHe-hseMP5ZuS2Ak&oq=NAn&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQkQIyBQgAEJECMgQILhBDMgcILhDUAhBDMgQILhBDMgQIABBDMgoILhDHARCjAhBDMg4ILhCABBCxAxCDARDUAjIICC4QgAQQsQMyCwguEIAEELEDEIMBOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOgwILhDIAxCwAxBDGAI6EgguEMcBEKMCEMgDELADEEMYAjoKCC4QsQMQgwEQQzoECAAQAzoFCAAQgAQ6CgguEOoCELQCEEM6CggAEOoCELQCEEM6DQguENQCEOoCELQCEEM6EAguELEDEIMBEMcBENEDEEM6CwgAEIAEELEDEIMBOggIABCxAxCDAToICC4Q1AIQkQJKBAhBGABKBAhGGAFQ7QZYxBtgpTJoAnABeASAAfkCiAH3D5IBBzAuMS42LjGYAQCgAQGwAQrIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz>Nᴀɴᴄʏ Wʜᴇᴇʟᴇʀ</a></b>
-<b>🏢 Mʏ Oғғɪᴄᴇ  : <a href=https://t.me/Mkv_blasters>MKV Bʟᴀsᴛᴇʀs </a></b>
-<b>👨‍🏫 Mʏ Sᴄʜᴏᴏʟ : <a href=https://www.google.com/search?q=hawkins+high+school&oq=hawkins+hi&aqs=chrome.0.0i131i433i512j69i57j0i512l7.6697j0j9&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#imgrc=KF1BErh5KE74eM>Hᴀᴡᴋɪɴs Hɪɢʜ Sᴄʜᴏᴏʟ</a></b>"""
+<b>🫂 ᴍʏ ғʀɪᴇɴᴅ : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
+<b>🇵🇷 ᴄᴏᴜɴᴛʀʏ :  <a href=https://www.google.com/search?q=USA+&ei=Z3rKYvOXGtS34t4Pp6mEgAU&ved=0ahUKEwiz5_KR4e34AhXUm9gFHacUAVAQ4dUDCA4&uact=5&oq=USA+&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyBAgAEEMyBggAEAoQQzIECAAQQzIGCAAQChBDMgQIABBDMgcIABCxAxBDOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6DAguEMgDELADEEMYAjoHCC4QsQMQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoOCAAQgAQQsQMQgwEQyQM6BAguEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToNCC4QsQMQgwEQ1AIQQzoKCC4QxwEQowIQQzoKCC4QsQMQgwEQQ0oECEEYAEoECEYYAVCFCljAHGD_OmgCcAF4A4AB3ASIAd8dkgEHMi0yLjUtNpgBAKABAbABCsgBEMABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz#>ᴜsᴀ</a></b>
+<b>🔊 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://en.wikipedia.org/wiki/English_language>ᴇɴɢʟɪsʜ</a></b>
+<b>🗽 sᴛᴀᴛᴇ : <a href=https://www.google.com/search?q=texas&ei=uozKYoTTHvjNseMP9P-Y6A0&gs_ssp=eJzj4tDP1TcwT4rPMWD0Yi1JrUgsBgAqsgUX&oq=texas&gs_lcp=Cgdnd3Mtd2l6EAEYADIICC4QsQMQkQIyBAgAEEMyBAgAEEMyCgguELEDENQCEEMyCgguELEDEIMBEEMyDQguELEDEIMBENQCEEMyDggAEIAEELEDEIMBEMkDMhEILhCABBCxAxCDARDHARDRAzIOCC4QgAQQsQMQgwEQ1AIyCwgAEIAEELEDEIMBOgcIABBHELADOgcIABCwAxBDOgcIABCxAxBDOgUIABCABDoKCAAQ6gIQtAIQQzoKCAAQsQMQgwEQQzoQCC4QsQMQgwEQxwEQ0QMQQzoICAAQsQMQgwE6BwguELEDEEM6DAgAELEDEIMBEAoQQzoRCC4QgAQQsQMQgwEQxwEQrwFKBAhBGABKBAhGGABQ1gpYxyhgiDtoAnABeAOAAdYBiAHEEZIBBjAuMTUuMZgBAKABAbABCsgBCsABAQ&sclient=gws-wiz#>ᴛᴇxᴀs</a></b>
+<b>🪴 ʙᴏʀɴ : <a href=https://www.google.com/search?q=hawkins+city&ei=1ozKYvWeL8KUseMPkNefwAc&gs_ssp=eJzj4tTP1TcwNEhONjRg9OLJSCzPzswrVkjOLKkEAFl_B7w&oq=haw&gs_lcp=Cgdnd3Mtd2l6EAEYAzIHCC4QsQMQQzIQCC4QsQMQgwEQxwEQowIQQzIECAAQQzIKCC4QsQMQgwEQQzIHCC4Q1AIQQzIECAAQQzIECAAQQzIECAAQQzILCC4QgAQQsQMQ1AIyBwguENQCEEM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6DQgAEOQCELADEMkDGAE6DwguENQCEMgDELADEEMYAjoMCC4QyAMQsAMQQxgCOgoILhDHARDRAxBDOgoIABCxAxCDARBDOgcIABCxAxBDOg4IABCABBCxAxCDARDJAzoECC4QQzoNCC4Q1AIQ6gIQtAIQQzoKCC4Q6gIQtAIQQzoLCAAQgAQQsQMQgwE6CggAELEDEIMBEAo6CAgAELEDEIMBOhEILhCABBCxAxCDARDHARCjAjoICC4QsQMQgwE6CgguEMcBEKMCEENKBAhBGABKBAhGGAFQrQtYjR9ghTdoAnABeAOAAdkBiAH1B5IBBTAuNi4xmAEAoAEBsAEKyAEQwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz#>ʜᴀᴡᴋɪɴs</a></b>
+<b>❤️‍🔥 ᴍʏ ʟᴏᴠᴇʀ : <a href=https://www.google.com/search?q=nancy+wheeler&ei=Ro3KYqShHe-hseMP5ZuS2Ak&oq=NAn&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQkQIyBQgAEJECMgQILhBDMgcILhDUAhBDMgQILhBDMgQIABBDMgoILhDHARCjAhBDMg4ILhCABBCxAxCDARDUAjIICC4QgAQQsQMyCwguEIAEELEDEIMBOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOgwILhDIAxCwAxBDGAI6EgguEMcBEKMCEMgDELADEEMYAjoKCC4QsQMQgwEQQzoECAAQAzoFCAAQgAQ6CgguEOoCELQCEEM6CggAEOoCELQCEEM6DQguENQCEOoCELQCEEM6EAguELEDEIMBEMcBENEDEEM6CwgAEIAEELEDEIMBOggIABCxAxCDAToICC4Q1AIQkQJKBAhBGABKBAhGGAFQ7QZYxBtgpTJoAnABeASAAfkCiAH3D5IBBzAuMS42LjGYAQCgAQGwAQrIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz>💌 ɴᴀɴᴄʏ ᴡʜᴇᴇʟᴇʀ 💌</a></b>
+<b>🏢 ᴍʏ ᴏғғɪᴄᴇ : <a href=https://t.me/Mkv_blasters>👑 ᴍᴋᴠ ʙʟᴀsᴛᴇʀs 👑™</a></b>
+<b>👨‍🏫 ᴍʏ sᴄʜᴏᴏʟ : <a href=https://www.google.com/search?q=hawkins+high+school&oq=hawkins+hi&aqs=chrome.0.0i131i433i512j69i57j0i512l7.6697j0j9&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#imgrc=KF1BErh5KE74eM>ʜᴀᴡᴋɪɴs ʜɪɢʜ sᴄʜᴏᴏʟ</a></b>"""
     DONATION_TXT = """<b>𝐂𝐨𝐨𝐤𝐢𝐞𝐬 & 𝐒𝐦𝐨𝐨𝐭𝐡𝐢𝐞𝐬</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -267,21 +267,21 @@ This module only works for my admins
 • /unban_user  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """<b>📚 Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code></b>
-<b>👤 Tᴏᴛᴀʟ Usᴇʀs : <code>{}</code></b>
-<b>🪩 Tᴏᴛᴀʟ Cʜᴀᴛs : <code>{}</code></b>
-<b>💾 Usᴇᴅ Sᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝙱</b>
-<b>📀 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ  : <code>{}</code> 𝙼𝙱</b>"""
-    LOG_TEXT_G = """<b>#Nᴇᴡ Gʀᴏᴜᴘ</b>
+    STATUS_TXT = """<b>📚 ᴛᴏᴛᴀʟ ғɪʟᴇs : <b>{}</b></b>
+<b>👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs : <b>{}</b></b>
+<b>🪩 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs : <b>{}</b></b>
+<b>💾 ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ : <b>{}</b></b>
+<b>📀 ғʀᴇᴇ sᴛᴏʀᴀɢᴇ : <b>{}</b></b>"""
+    LOG_TEXT_G = """<b>#ɴᴇᴡ ɢʀᴏᴜᴘ</b>
     
-<b>🪩 Gʀᴏᴜᴘ ⪼ {}(<code>{}</code>)</b>
-<b>👤 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs ⪼ <code>{}</code></b>
-<b>🎯 Aᴅᴅᴇᴅ Bʏ ⪼ {}</b>
+<b>🪩 ɢʀᴏᴜᴘ ⪼ {}(<code>{}</code>)</b>
+<b>👤 ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs ⪼ <code>{}</code></b>
+<b>🎯 ᴀᴅᴅᴇᴅ ʙʏ ⪼ {}</b>
 """
-    LOG_TEXT_P = """<b>#Nᴇᴡ Usᴇʀ</b>
+    LOG_TEXT_P = """<b>#ɴᴇᴡ ᴜsᴇʀ</b>
     
-<b>🪪 Iᴅ - <code>{}</code></b>
-<b>🔮 Nᴀᴍᴇ - {}</b>
+<b>🪪 ɪᴅ - <code>{}</code></b>
+<b>🔮 ɴᴀᴍᴇ - {}</b>
 """
     REPORT_TXT = """➤ 𝐇𝐞𝐥𝐩: Rᴇᴘᴏʀᴛ ⚠️
 
