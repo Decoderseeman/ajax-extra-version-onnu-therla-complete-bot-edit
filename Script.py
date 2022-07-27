@@ -6,10 +6,10 @@ class script(object):
  ● 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝚃𝙷𝙴𝚁𝙴..
  ● 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙶𝚁𝙴𝙰𝚃𝙽𝙴𝚂𝚂..👑
  
- 𝐌𝐘 𝐁𝐄𝐒𝐓 𝐅𝐑𝐈𝐄𝐍𝐃:<a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>"""
+ 𝐌𝐘 𝐅𝐑𝐈𝐄𝐍𝐃:<a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>"""
 
-    HELP_TXT = """𝙷𝙴𝚈 𝙱𝚄𝙳𝙳𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """<b>𝙷𝙴𝚈 𝙱𝚄𝙳𝙳𝚈 {}
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/mkvstevefilter_bot>💔 ѕτєνє нαяяιиgτοи 💔</a></b>
 <b>✮ 𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳: <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
 <b>✮ 𝙲𝙾𝚄𝙽𝚃𝚁𝚈:  <a href=https://www.google.com/search?q=USA+&ei=Z3rKYvOXGtS34t4Pp6mEgAU&ved=0ahUKEwiz5_KR4e34AhXUm9gFHacUAVAQ4dUDCA4&uact=5&oq=USA+&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyBAgAEEMyBggAEAoQQzIECAAQQzIGCAAQChBDMgQIABBDMgcIABCxAxBDOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6DAguEMgDELADEEMYAjoHCC4QsQMQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoOCAAQgAQQsQMQgwEQyQM6BAguEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToNCC4QsQMQgwEQ1AIQQzoKCC4QxwEQowIQQzoKCC4QsQMQgwEQQ0oECEEYAEoECEYYAVCFCljAHGD_OmgCcAF4A4AB3ASIAd8dkgEHMi0yLjUtNpgBAKABAbABCsgBEMABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz#>𝚄𝚂𝙰</a></b>
@@ -267,21 +267,21 @@ This module only works for my admins
 • /unban_user  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """<b>📝 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>👤 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>👥 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>💾 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>📀 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
-    LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
+    STATUS_TXT = """<b>📚 Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code></b>
+<b>👤 Tᴏᴛᴀʟ Usᴇʀs : <code>{}</code></b>
+<b>🪩 Tᴏᴛᴀʟ Cʜᴀᴛs : <code>{}</code></b>
+<b>💾 Usᴇᴅ Sᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝙱</b>
+<b>📀 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ  : <code>{}</code> 𝙼𝙱</b>"""
+    LOG_TEXT_G = """<b>#Nᴇᴡ Gʀᴏᴜᴘ</b>
     
-<b>👥 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
-<b>👤 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
-<b>🎯 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
+<b>🪩 Gʀᴏᴜᴘ ⪼ {}(<code>{}</code>)</b>
+<b>👤 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs ⪼ <code>{}</code></b>
+<b>🎯 Aᴅᴅᴇᴅ Bʏ ⪼ {}</b>
 """
-    LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
+    LOG_TEXT_P = """<b>#Nᴇᴡ Usᴇʀ</b>
     
-<b>᚛› 𝐈𝐃 - <code>{}</code></b>
-<b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
+<b>🪪 Iᴅ - <code>{}</code></b>
+<b>🔮 Nᴀᴍᴇ - {}</b>
 """
     REPORT_TXT = """➤ 𝐇𝐞𝐥𝐩: Rᴇᴘᴏʀᴛ ⚠️
 
