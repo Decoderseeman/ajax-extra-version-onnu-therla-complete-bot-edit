@@ -1403,19 +1403,22 @@ async def auto_filter(client, msg, spoll=False):
         cap = f"🎥 <b>ᴍᴏᴠɪᴇ ɴᴀᴍᴇ</b> : <code>{search}</code>\n👩🏻‍💻 <b>ʀᴇϙᴜᴇsᴛᴇᴅ ʙʏ</b> : {message.from_user.mention}\n🔮 <b>sᴜᴘᴘᴏʀᴛ</b> : [𝕄𝕂𝕍 ℝ𝕖𝕢𝕦𝕖𝕤𝕥 ℝ𝕠𝕠𝕞](https://t.me/mkv_requestroom)"
     if imdb and imdb.get('poster'):
         try:
-            await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
-                                      reply_markup=InlineKeyboardMarkup(btn))
+            hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
+            await asyncio.sleep(1200)
+            await hehe.delete()            
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
             pic = imdb.get('poster')
             poster = pic.replace('.jpg', "._V1_UX360.jpg")
-            fmsg = await message.reply_photo(photo=poster, caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
+            hmm = await message.reply_photo(photo=poster, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
+            await asyncio.sleep(1200)            
         except Exception as e:
             logger.exception(e)
-            await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
+            fek = await message.reply_text(text=cap, disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(btn))
+            await asyncio.sleep(1200)            
     else:
-        await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
-    if spoll:
-        await msg.message.delete()
+        fuk = await message.reply_text(text=cap, disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(btn))
+        await asyncio.sleep(1200)
+        await fuk.delete()
 
 async def advantage_spell_chok(msg):
     query = re.sub(
