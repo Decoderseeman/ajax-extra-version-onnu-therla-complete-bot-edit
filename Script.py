@@ -272,33 +272,41 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ <b>/connections - ʟɪsᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴs</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+    EXTRAMOD_TXT = """<b>● ʜᴇʟᴘ : ᴇxᴛʀᴀ ᴍᴏᴅᴜʟᴇs</b>
 
-<b>NOTE:</b>
-these are the extra features of <b>ѕτєνє</b> 
+<b>● ɴᴏᴛᴇ ››</b>
 
-<b>Commands and Usage:</b>
-• /id - <code>get id of a specifed user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+<b>ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴏғ <a href=https://t.me/Mkvstevefilter_bot><b>ѕτєνє</b></a>
 
-<b>NOTE:</b>
-This module only works for my admins
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-<b>Commands and Usage:</b>
-• /logs - <code>to get the rescent errors</code>
-• /stats - <code>to get status of files in db.</code>
-• /delete - <code>to delete a specific file from db.</code>
-• /users - <code>to get list of my users and ids.</code>
-• /chats - <code>to get list of the my chats and ids </code>
-• /leave  - <code>to leave from a chat.</code>
-• /disable  -  <code>do disable a chat.</code>
-• /ban_user  - <code>to ban a user.</code>
-• /unban_user  - <code>to unban a user.</code>
-• /channel - <code>to get list of total connected channels</code>
-• /broadcast - <code>to broadcast a message to all users</code>"""
+➪ **/id** - <code>get id of a specifed user.</code>
+➪ **/info**  - <code>get information about a user.</code>
+➪ **/imdb**  - <code>get the film information from IMDb source.</code>
+➪ **/search**  - <code>get the film information from various sources.</code>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
+    ADMIN_TXT = """<b>● ʜᴇʟᴘ : ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs </b>
+
+<b>● ɴᴏᴛᴇ ››</b>
+
+<b>ᴛʜɪs ᴍᴏᴅᴜʟᴇ ᴏɴʟʏ ᴡᴏʀᴋs ғᴏʀ ᴍʏ ᴀᴅᴍɪɴs<b>
+
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
+
+➪ **/logs** - <code>to get the rescent errors</code>
+➪ **/stats** - <code>to get status of files in db.</code>
+➪ **/delete** - <code>to delete a specific file from db.</code>
+➪ **/users** - <code>to get list of my users and ids.</code>
+➪ **/chats** - <code>to get list of the my chats and ids </code>
+➪ **/leave**  - <code>to leave from a chat.</code>
+➪ **/disable**  -  <code>do disable a chat.</code>
+➪ **/ban_user** - <code>to ban a user.</code>
+➪ **/unban_user**  - <code>to unban a user.</code>
+➪ **/channel** - <code>to get list of total connected channels</code>
+➪ **/broadcast** - <code>to broadcast a message to all users</code>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     STATUS_TXT = """<b>📚 ᴛᴏᴛᴀʟ ғɪʟᴇs : <b>{}</b></b>
 <b>👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs : <b>{}</b></b>
 <b>🪩 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs : <b>{}</b></b>
