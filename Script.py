@@ -180,24 +180,29 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ <b>sʜᴀʀᴇ ᴜs ғᴏʀ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
+    TELE_TXT = """<b>● ʜᴇʟᴘ :  ᴛᴇʟᴇɢʀᴀᴘʜ
 
-Do as you wish with telegra.ph module!
+ᴅᴏ ᴀs ʏᴏᴜ ᴡɪsʜ ᴡɪᴛʜ ᴛᴇʟᴇɢʀᴀᴘʜ ᴍᴏᴅᴜʟᴇ !</b>
 
-</b>USAGE:</b>
+<b>● ᴜsᴀɢᴇ ››</b>
 
-🤧 /telegraph - Send me Picture or Vide Under (5MB)
+➪ <b>/telegraph - sᴇɴᴅ ᴍᴇ ᴘɪᴄᴛᴜʀᴇ ᴏʀ ᴠɪᴅᴇ ᴜɴᴅᴇʀ (5ᴍʙ)</b>
 
-<b>NOTE:</b>
+<b>● ɴᴏᴛᴇ ››</b>
 
-• This Command Is Available in goups and pms
-• This Command Can be used by everyone"""
+➪ <b>ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴜᴘs ᴀɴᴅ ᴘᴍs</b>
+➪ <b>ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ</b>
 
-    PRIVATEBOT_TXT = """<b>𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙱𝙴 𝙼𝚈 𝙱𝙴𝚂𝚃 𝙵𝚁𝙸𝙴𝙽𝙳</b>
-<b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙱𝙴 𝙼𝚈 𝙱𝙴𝚂𝚃 𝙵𝚁𝙸𝙴𝙽𝙳 𝙻𝙸𝙺𝙴 ❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>"""
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
+
+    PRIVATEBOT_TXT = """<b>ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ...?
+
+›› ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ ʟɪᴋᴇ</b> <a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b></a>.
+<b>›› ᴡɪᴛʜ ᴀʟʟ ʏᴏᴜʀ ᴄʀᴇᴅɪᴛs
+›› ᴡɪᴛʜ ʏᴏᴜʀ ᴏᴡɴᴇʀsʜɪᴘ
+›› ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </b><a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b></a>.
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
