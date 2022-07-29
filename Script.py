@@ -348,16 +348,19 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
-    URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
+    URLSHORT_TXT = """<b>● ʜᴇʟᴘ :  ᴜʀʟ sʜᴏʀᴛɴᴇʀ
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 
+ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ sʜᴏʀᴛ ᴀ ᴜʀʟ</b>
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
+➪<b> /short - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ɢᴇᴛ sʜᴏʀᴛᴇᴅ ʟɪɴᴋs</b>
 
-➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>"""
+
+<b>● ᴇxᴀᴍᴘʟᴇ  ››</b>
+<code>/short https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
