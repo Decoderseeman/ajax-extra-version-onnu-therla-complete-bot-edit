@@ -1,15 +1,15 @@
 class script(object):
-    START_TXT = """<b>👋𝙷𝙴𝚈 𝙱𝙰𝚂𝚃𝙰𝚁𝙳,</b>{},
-<b>𝙸'𝙼 <a href=https://t.me/{}>{}</a>,
+    START_TXT = """👋 <b>ʜᴇʏ ʙᴀsᴛᴀʀᴅ ,</b> {}<b>,</b>
+<b>ɪ'ᴍ </b><a href=https://t.me/{}>{},</a>
 
- ● 𝙸 𝙰𝙼 𝙰 𝙶𝚁𝙴𝙰𝚃 𝙱𝙰𝙱𝚈 𝚂𝙸𝚃𝚃𝙴𝚁 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴𝚂..
- ● 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝚃𝙷𝙴𝚁𝙴..
- ● 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙶𝚁𝙴𝙰𝚃𝙽𝙴𝚂𝚂..👑
- 
- 𝐌𝐘 𝐅𝐑𝐈𝐄𝐍𝐃:<a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>"""
+<b>● ɪ ᴀᴍ ᴀ ɢʀᴇᴀᴛ ʙᴀʙʏsɪᴛᴛᴇʀ ғᴏʀ ʏᴏᴜʀ ғɪʟᴇs.
+● ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ.
+● ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ sᴇᴇ ᴍʏ ᴡʜᴏʟᴇsᴏᴍᴇ ᴘᴏᴡᴇʀs...👑</b>
 
-    HELP_TXT = """<b>𝙷𝙴𝚈 𝙱𝚄𝙳𝙳𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
+😎 <b>ᴍʏ ғʀɪᴇɴᴅ :</b> <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>"""
+
+    HELP_TXT = """<b>ʜᴇʏ ʙᴜᴅᴅʏ {}
+ʜᴇʀᴇ ɪs ᴍʏ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs...</b>"""
     ABOUT_TXT = """<b>😎 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/mkvstevefilter_bot>💔 ѕτєνє нαяяιиgτοи 💔</a></b>
 <b>🫂 ᴍʏ ғʀɪᴇɴᴅ : <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
 <b>🇵🇷 ᴄᴏᴜɴᴛʀʏ :  <a href=https://www.google.com/search?q=USA+&ei=Z3rKYvOXGtS34t4Pp6mEgAU&ved=0ahUKEwiz5_KR4e34AhXUm9gFHacUAVAQ4dUDCA4&uact=5&oq=USA+&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyBAgAEEMyBggAEAoQQzIECAAQQzIGCAAQChBDMgQIABBDMgcIABCxAxBDOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOg8ILhDUAhDIAxCwAxBDGAI6DAguEMgDELADEEMYAjoHCC4QsQMQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoOCAAQgAQQsQMQgwEQyQM6BAguEEM6FAgAEOoCELQCEIoDELcDENQDEOUCOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToNCC4QsQMQgwEQ1AIQQzoKCC4QxwEQowIQQzoKCC4QsQMQgwEQQ0oECEEYAEoECEYYAVCFCljAHGD_OmgCcAF4A4AB3ASIAd8dkgEHMi0yLjUtNpgBAKABAbABCsgBEMABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz#>ᴜsᴀ</a></b>
@@ -52,21 +52,21 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
 ━━━━━━━━━━━━᚜ <a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b></a> ᚛━━━━━━━━━━━━""" 
-    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
+    FILE_TXT = """<b>● ʜᴇʟᴘ : ғɪʟᴇ sᴛᴏʀᴇ ᴍᴏᴅᴜʟᴇ</b>
 
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+<b>ʙʏ ᴜsɪɴɢ ᴛʜɪs ᴍᴏᴅᴜʟᴇ ʏᴏᴜ ᴄᴀɴ sᴛᴏʀᴇ ғɪʟᴇs ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ᴀɴᴅ ɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴛᴏ ᴀᴄᴄᴇss ᴛʜᴇ sᴀᴠᴇᴅ ғɪʟᴇs.ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ғɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟ ᴛʜᴇɴ sᴇɴᴅ ᴍᴇ ᴛʜᴇ ғɪʟᴇ ʟɪɴᴋ ᴏɴʟʏ ᴏʀ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ғɪʟᴇs ғʀᴏᴍ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ʏᴏᴜ ᴍᴜsᴛ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴏɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀᴄᴄᴇss ғɪʟᴇs... </b>
 
-⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
+●<b> ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ›</b>
 
-➪ /plink ›› <b>𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝙼𝙴𝙳𝙸𝙰 𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝙽𝙺.</b>
-➪ /pbatch ›› <b>𝚄𝚂𝙴 𝚈𝙾𝚄𝚁 𝙼𝙴𝙳𝙸𝙰 𝙻𝙸𝙽𝙺 𝚆𝙸𝚃𝙷 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
-➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
+➪ /plink <b>›› ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ ᴛᴏ ɢᴇᴛ ʟɪɴᴋ</b>
+➪ /pbatch <b>›› ᴜsᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ʟɪɴᴋ ᴡɪᴛʜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ</b>
+➪ /batch <b>›› ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</b>
 
-⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
+● <b>ᴇxᴀᴍᴘʟᴇ  ››</b>
 
-<code>/batch https://t.me/Mkv_blasters/3 https://t.me/Mkv_blasters/8</code>
+<code>/batch https://t.me/mkv_blasters/1 https://t.me/mkv_blasters/5</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Mkv_bots><b>𝙼𝙺𝚅 𝙱𝙾𝚃𝚂</b></a>"""
+● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
