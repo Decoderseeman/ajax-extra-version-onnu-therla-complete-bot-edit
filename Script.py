@@ -204,19 +204,21 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
-    JSON_TXT ="""<b>JSON:</b>
+    JSON_TXT ="""<b>● ʜᴇʟᴘ :  ᴊsᴏɴ
 
-Bot returns json for all replied messages with /json
+ʙᴏᴛ ʀᴇᴛᴜʀɴs ᴊsᴏɴ ғᴏʀ ᴀʟʟ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇs ᴡɪᴛʜ /json
 
-<b>Features:</b>
+<b>● ғᴇᴀᴛᴜʀᴇs ››</b>
 
-Message Editting JSON
-Pm Support
-Group Support
+➪ <b>ᴍᴇssᴀɢᴇ ᴇᴅɪᴛᴛɪɴɢ ᴊsᴏɴ</b>
+➪ <b>ᴘᴍ sᴜᴘᴘᴏʀᴛ</b>
+➪ <b>ɢʀᴏᴜᴘ sᴜᴘᴘᴏʀᴛ</b>
 
-<b>Note:</b>
+<b>● ɴᴏᴛᴇ ››
 
-Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
+ᴇᴠᴇʀʏᴏɴᴇ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ , ɪғ sᴘᴀᴍɪɴɢ ʜᴀᴘᴘᴇɴs ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʙᴀɴ ʏᴏᴜ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.</b>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     PURGE_TXT = """<b>Purge</b>
     
 Delete A Lot Of Messages From Groups! 
