@@ -257,19 +257,21 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ <b>/get_template - ɢᴇᴛ ᴄᴜʀʀᴇɴᴛ ɪᴍᴅʙ ᴛᴇᴍᴘʟᴀᴛᴇ ғᴏʀ ᴀᴜᴛᴏ ᴜᴛᴏ ғɪʟᴛᴇʀ</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """<b>● ʜᴇʟᴘ : ᴄᴏɴɴᴇᴄᴛɪᴏɴs
 
-- Used to connect bot to PM for managing filters 
-- it helps to avoid spamming in groups.
+ᴜsᴇᴅ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ᴘᴍ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ғɪʟᴛᴇʀs 
+ɪᴛ ʜᴇʟᴘs ᴛᴏ ᴀᴠᴏɪᴅ sᴘᴀᴍᴍɪɴɢ ɪɴ ɢʀᴏᴜᴘs.</b>
 
-<b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+<b>● ɴᴏᴛᴇ ››</b>
+➪<b> ᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ ᴀᴅᴅ ᴀ ᴄᴏɴɴᴇᴄᴛɪᴏɴ.</b>
+➪<b> sᴇɴᴅ /connect ғᴏʀ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴍᴇ ᴛᴏ ᴜʀ ᴘᴍ</b>
 
-<b>Commands and Usage:</b>
-• /connect  - <code>connect a particular chat to your PM</code>
-• /disconnect  - <code>disconnect from a chat</code>
-• /connections - <code>list all your connections</code>"""
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
+➪ <b>/connect  - ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ</b>
+➪ <b>/disconnect  - ᴅɪsᴄᴏɴɴᴇᴄᴛ ғʀᴏᴍ ᴀ ᴄʜᴀᴛ</b>
+➪ <b>/connections - ʟɪsᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴs</b>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
