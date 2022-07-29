@@ -195,4 +195,4 @@ async def index_files_to_db(lst_msg_id, chat, msg, bot):
             logger.exception(e)
             await msg.edit(f'Error: {e}')
         else:
-            await msg.edit(f'**sᴜᴄᴄᴇssғᴜʟʟʏ sᴀᴠᴇᴅ <code>{total_files}</code> **ғɪʟᴇs ᴛᴏ ᴅᴀᴛᴀʙᴀsᴇ !**\n**ᴅᴜᴘʟɪᴄᴀᴛᴇ ғɪʟᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{duplicate}</code>\n**ᴅᴇʟᴇᴛᴇᴅ ᴍᴇssᴀɢᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{deleted}</code>\n**ɴᴏɴ-ᴍᴇᴅɪᴀ ᴍᴇssᴀɢᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{no_media}</code>\n**ᴇʀʀᴏʀs ᴏᴄᴄᴜʀʀᴇᴅ** **:** <code>{errors}</code>')
+            await msg.edit(f'**sᴜᴄᴄᴇssғᴜʟʟʏ sᴀᴠᴇᴅ** <code>{total_files}</code> **ғɪʟᴇs ᴛᴏ ᴅᴀᴛᴀʙᴀsᴇ !**\n**ᴅᴜᴘʟɪᴄᴀᴛᴇ ғɪʟᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{duplicate}</code>\n**ᴅᴇʟᴇᴛᴇᴅ ᴍᴇssᴀɢᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{deleted}</code>\n**ɴᴏɴ-ᴍᴇᴅɪᴀ ᴍᴇssᴀɢᴇs sᴋɪᴘᴘᴇᴅ** **:** <code>{no_media}</code>\n**ᴇʀʀᴏʀs ᴏᴄᴄᴜʀʀᴇᴅ** **:** <code>{errors}</code>')
