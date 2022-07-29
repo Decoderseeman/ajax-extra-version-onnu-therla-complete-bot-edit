@@ -362,16 +362,23 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
-    VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
+    VIDEO_TXT ="""<b>● ʜᴇʟᴘ :  ᴠɪᴅᴇᴏ ᴍᴏᴅᴜʟᴇ 
 
-• 𝘜𝘴𝘢𝘨𝘦
-𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
+ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ </b>
+ 
+<b>● ᴜsᴀɢᴇ ››</b>
 
-𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA)
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
+<b>ʏᴏᴜ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴠɪᴅᴇᴏ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ </b>
+
+<b>● ᴄᴏᴍᴍᴀɴᴅs ››</b>
+
+➪ <b>ᴛʏᴘᴇ /video ᴏʀ /mp4 ᴀɴᴅ ( https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA )</b>
+
+<b>● ᴇxᴀᴍᴘʟᴇ  ››</b>
+<code>/video https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>
 <code>/mp4 https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>
-<code>/video https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>"""
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
