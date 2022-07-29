@@ -67,9 +67,11 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 <code>/batch https://t.me/mkv_blasters/1 https://t.me/mkv_blasters/5</code>
 
 ● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    WHOIS_TXT ="""<b>WHOIS MODULE</b>
-Note:- Give a user details
-•/whois :-give a user full details"""
+    WHOIS_TXT ="""● <b>ᴡʜᴏɪs ᴍᴏᴅᴜʟᴇ ››</b> 
+
+<b>ɴᴏᴛᴇ : ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ ғᴜʟʟ ᴅᴇᴛᴀɪʟ</b>
+
+➪ /whois<b> : ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ ғᴜʟʟ ᴅᴇᴛᴀɪʟ...</b>"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
 <b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
