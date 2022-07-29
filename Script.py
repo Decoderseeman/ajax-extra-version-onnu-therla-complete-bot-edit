@@ -131,48 +131,55 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ /unpin - ᴛᴏ ᴜɴᴘɪɴ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇ </b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    PASTE_TXT = """Help: <b>Paste</b>
+    PASTE_TXT = """<b>● ʜᴇʟᴘ : ᴘᴀsᴛᴇ
 
-Paste some texts or documents on a website!
+ᴘᴀsᴛᴇ sᴏᴍᴇ ᴛᴇxᴛs ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛs ᴏɴ ᴀ ᴡᴇʙsɪᴛᴇ !</b>
 
-<b>Commands and Usage:</b>
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-• /paste [text] - paste the given text on Pasty
+➪ <b>/paste [ᴛᴇxᴛ] - ᴘᴀsᴛᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴏɴ ᴘᴀsᴛʏ</b>
 
-<b>NOTE:</b>
+<b>● ɴᴏᴛᴇ ››</b>
 
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
-    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+➪ <b>ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.</b>
+➪ <b>ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.</b>
 
-Translate text to speech
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
+    TTS_TXT = """<b>● ʜᴇʟᴘ :  ᴛᴛs ᴍᴏᴅᴜʟᴇ
 
-<b>Commands and Usage:</b>
+ᴛʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ</b>
 
-• /tts <text> : convert text to speech
+<b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-<b>NOTE:</b>
+➪ <b>/tts : ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ</b>
 
-• IMDb should have admin privillage.
-• These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
-    PINGS_TXT ="""<b>🌟 Ping:</b>
+<b>● ɴᴏᴛᴇ ››</b>
 
-Helps you to know your ping 🚶🏼‍♂️
+➪ <b>ɪᴍᴅʙ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.</b>
+➪ <b>ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.</b>
+➪ <b>ɪᴍᴅʙ ᴄᴀɴ ᴛʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛs ᴛᴏ 200+ ʟᴀɴɢᴜᴀɢᴇs.</b>
 
-<b>Commands:</b>
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
+    PINGS_TXT ="""<b>● ʜᴇʟᴘ : ᴘɪɴɢ 
 
-• /alive - To check you are alive.
-• /help - To get help.
-• /ping - To get your ping.
-• /repo - Source Code.
-• /channel - Channel Details.
-• /steve - Bot Link.
-<b>🏹Usage🏹 :</b>
+ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ᴋɴᴏᴡ ʏᴏᴜʀ ᴘɪɴɢ </b>
 
-• This commands can be used in pms and groups
-• This commands can be used buy everyone in the groups and bots pm
-• Share us for more features"""
+<b>● ᴄᴏᴍᴍᴀɴᴅs ››</b>
+
+➪ <b>/alive - ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜ ᴀʀᴇ ᴀʟɪᴠᴇ.</b>
+➪ <b>/help - ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ.</b>
+➪ <b>/ping - ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴘɪɴɢ.</b>
+➪ <b>/repo - sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</b>
+➪<b> /channel - ᴄʜᴀɴɴᴇʟ ᴅᴇᴛᴀɪʟs.</b>
+➪ <b>/steve - ʙᴏᴛ ʟɪɴᴋ.</b>
+
+<b>● ᴜsᴀɢᴇ ››</b>
+
+➪ <b>ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ɪɴ ᴘᴍs ᴀɴᴅ ɢʀᴏᴜᴘs</b>
+➪ <b>ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙᴜʏ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘs ᴀɴᴅ ʙᴏᴛs ᴘᴍ</b>
+➪ <b>sʜᴀʀᴇ ᴜs ғᴏʀ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs</b>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     TELE_TXT = """<b>▫️HELP: Telegraph▪️</b>
 
 Do as you wish with telegra.ph module!
