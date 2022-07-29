@@ -86,7 +86,7 @@ async def fil_mod(client, message):
       except: 
          return await message.reply("**<b>Iɴᴄᴏᴍᴘʟᴇᴛᴇ Cᴏᴍᴍᴀɴᴅ...</b>**")
       
-      m = await message.reply("**<b>Sᴇᴛᴛɪɴɢ.../</b>**")
+      m = await message.reply("**<b>Sᴇᴛᴛɪɴɢ...</b>**")
 
       if args in mode_on:
           FILTER_MODE[str(message.chat.id)] = "True" 
