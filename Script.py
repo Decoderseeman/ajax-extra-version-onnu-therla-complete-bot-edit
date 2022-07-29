@@ -58,9 +58,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ●<b> ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ›</b>
 
-➪ **/plink** <b>›› ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ ᴛᴏ ɢᴇᴛ ʟɪɴᴋ</b>
-➪ **/pbatch** <b>›› ᴜsᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ʟɪɴᴋ ᴡɪᴛʜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ</b>
-➪ **/batch** <b>›› ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</b>
+➪ <b>/plink</b> <b>›› ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇᴅɪᴀ ᴛᴏ ɢᴇᴛ ʟɪɴᴋ</b>
+➪ <b>/pbatch</b> <b>›› ᴜsᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ʟɪɴᴋ ᴡɪᴛʜ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ</b>
+➪ <b>/batch</b> <b>›› ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.</b>
 
 ● <b>ᴇxᴀᴍᴘʟᴇ  ››</b>
 
@@ -71,18 +71,18 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>ɴᴏᴛᴇ : ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ ғᴜʟʟ ᴅᴇᴛᴀɪʟ</b>
 
-➪ **/whois**<b> : ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ ғᴜʟʟ ᴅᴇᴛᴀɪʟ...</b>
+➪ <b>/whois</b><b> : ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ ғᴜʟʟ ᴅᴇᴛᴀɪʟ...</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     FUN_TXT ="""<b>Gᴀᴍᴇs ››</b>
 
 <b>⚡ᴊᴜsᴛ sᴏᴍᴇ ᴋɪɴᴅ ᴏғ ғᴜɴ ᴛʜɪɴɢs ⚡</b>
 
-➪ **/Dice** <b>-</b> <b>ʀᴏʟᴇ ᴛʜᴇ ᴅɪᴄᴇ</b>
-➪ **/Throw** <b>ᴏʀ</b> **/Dart** <b>-</b> <b>ᴛᴏ ᴍᴀᴋᴇ ᴅᴀʀᴛ</b>
-➪ **/Runs** <b>-</b> <b>sᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴅɪᴀʟᴏɢᴜᴇs</b>
-➪ **/Goal** <b>ᴏʀ</b> **/Shoot** <b>-</b> <b>ᴛᴏ ᴍᴀᴋᴇ ᴀ ɢᴏᴀʟ ᴏʀ sʜᴏᴏᴛ</b>
-➪ **/Luck** <b>ᴏʀ</b> **/Cownd** <b>-</b> <b>sᴘɪɴ ᴀɴᴅ ᴛʀʏ ᴛᴏ ʏᴏᴜʀ ʟᴜᴄᴋ </b>
+➪ <b>/Dice</b> <b>-</b> <b>ʀᴏʟᴇ ᴛʜᴇ ᴅɪᴄᴇ</b>
+➪ <b>/Throw</b> <b>ᴏʀ</b> b>/Dart</b> <b>-</b> <b>ᴛᴏ ᴍᴀᴋᴇ ᴅᴀʀᴛ</b>
+➪ <b>/Runs</b> <b>-</b> <b>sᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴅɪᴀʟᴏɢᴜᴇs</b>
+➪ <b>/Goal</b> <b>ᴏʀ</b> <b>/Shoot</b> <b>-</b> <b>ᴛᴏ ᴍᴀᴋᴇ ᴀ ɢᴏᴀʟ ᴏʀ sʜᴏᴏᴛ</b>
+➪ <b>/Luck</b> <b>ᴏʀ</b> <b>/Cownd</b> <b>-</b> <b>sᴘɪɴ ᴀɴᴅ ᴛʀʏ ᴛᴏ ʏᴏᴜʀ ʟᴜᴄᴋ </b>
 
 ● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     DEPLOY_TXT = """<b>ʜᴏᴡ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ...?</b> 
@@ -104,10 +104,10 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-➪ **/filter** <b>- ᴀᴅᴅ ᴀ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</b>
-➪ **/filters** <b>- ʟɪsᴛ ᴀʟʟ ᴛʜᴇ ғɪʟᴛᴇʀs ᴏғ ᴀ ᴄʜᴀᴛ</b>
-➪ **/del** <b>- ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</b>
-➪ **/delall** <b>- ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</b>
+➪ <b>/filter</b> <b>- ᴀᴅᴅ ᴀ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</b>
+➪ <b>/filters</b> <b>- ʟɪsᴛ ᴀʟʟ ᴛʜᴇ ғɪʟᴛᴇʀs ᴏғ ᴀ ᴄʜᴀᴛ</b>
+➪ <b>/del</b> <b>- ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ғɪʟᴛᴇʀ ɪɴ ᴄʜᴀᴛ</b>
+➪ <b>/delall</b> <b>- ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     SONG_TXT = """<b>● ʜᴇʟᴘ :  sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴏᴅᴜʟᴇ </b>
@@ -206,7 +206,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
     JSON_TXT ="""<b>● ʜᴇʟᴘ :  ᴊsᴏɴ
 
-ʙᴏᴛ ʀᴇᴛᴜʀɴs ᴊsᴏɴ ғᴏʀ ᴀʟʟ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇs ᴡɪᴛʜ /json
+ʙᴏᴛ ʀᴇᴛᴜʀɴs ᴊsᴏɴ ғᴏʀ ᴀʟʟ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇs ᴡɪᴛʜ /json</b>
 
 <b>● ғᴇᴀᴛᴜʀᴇs ››</b>
 
@@ -276,14 +276,14 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ɴᴏᴛᴇ ››</b>
 
-<b>ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴏғ <a href=https://t.me/Mkvstevefilter_bot><b>ѕτєνє</b></a>
+<b>ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴏғ</b> <a href=https://t.me/Mkvstevefilter_bot><b>ѕτєνє</b></a>
 
 <b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-➪ **/id** - <code>get id of a specifed user.</code>
-➪ **/info**  - <code>get information about a user.</code>
-➪ **/imdb**  - <code>get the film information from IMDb source.</code>
-➪ **/search**  - <code>get the film information from various sources.</code>
+➪ <b>/id</b> - <code>get id of a specifed user.</code>
+➪ <b>/info</b> - <code>get information about a user.</code>
+➪ <b>/imdb</b> - <code>get the film information from IMDb source.</code>
+➪ <b>/search</b> - <code>get the film information from various sources.</code>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     ADMIN_TXT = """<b>● ʜᴇʟᴘ : ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs </b>
@@ -294,17 +294,17 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-➪ **/logs** - <code>to get the rescent errors</code>
-➪ **/stats** - <code>to get status of files in db.</code>
-➪ **/delete** - <code>to delete a specific file from db.</code>
-➪ **/users** - <code>to get list of my users and ids.</code>
-➪ **/chats** - <code>to get list of the my chats and ids </code>
-➪ **/leave**  - <code>to leave from a chat.</code>
-➪ **/disable**  -  <code>do disable a chat.</code>
-➪ **/ban_user** - <code>to ban a user.</code>
-➪ **/unban_user**  - <code>to unban a user.</code>
-➪ **/channel** - <code>to get list of total connected channels</code>
-➪ **/broadcast** - <code>to broadcast a message to all users</code>
+➪ <b>/logs</b> - <code>to get the rescent errors</code>
+➪ <b>/stats</b> - <code>to get status of files in db.</code>
+➪ <b>/delete</b> - <code>to delete a specific file from db.</code>
+➪ <b>/users</b> - <code>to get list of my users and ids.</code>
+➪ <b>/chats</b> - <code>to get list of the my chats and ids </code>
+➪ <b>/leave</b>  - <code>to leave from a chat.</code>
+➪ <b>/disable</b>  -  <code>do disable a chat.</code>
+➪ <b>/ban_user</b> - <code>to ban a user.</code>
+➪ <b>/unban_user</b>  - <code>to unban a user.</code>
+➪ <b>/channel</b> - <code>to get list of total connected channels</code>
+➪ <b>/broadcast</b> - <code>to broadcast a message to all users</code>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     STATUS_TXT = """<b>📚 ᴛᴏᴛᴀʟ ғɪʟᴇs : <b>{}</b></b>
@@ -376,6 +376,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴇxᴀᴍᴘʟᴇ  ››</b>
 <code>/video https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>
+
 <code>/mp4 https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</code>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
@@ -421,7 +422,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
     YTTHUMB_TXT = """<b>● ʜᴇʟᴘ :  ʏᴛ - ᴛʜᴜᴍʙɴᴀɪʟ 
 
-ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴛʜᴜᴍʙɴᴀɪʟ 
+ʜᴇʟᴘs ʏᴏᴜ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴛʜᴜᴍʙɴᴀɪʟ </b>
 
 <b>● ᴄᴏᴍᴍᴀɴᴅs ››</b>
 
@@ -432,7 +433,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
-    ABOOK_TXT = """<b>● ʜᴇʟᴘ :  ᴀᴜᴅɪᴏ ʙᴏᴏᴋ 
+    ABOOK_TXT = """<b>● ʜᴇʟᴘ :  ᴀᴜᴅɪᴏ ʙᴏᴏᴋ </b>
 
 <b>● ᴜsᴀɢᴇ ››</b>
 
@@ -451,17 +452,17 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <b>● ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ ››</b>
 
-➪<b> /tr - ᴛᴏ ᴛʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛs ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ʟᴀɴɢᴜᴀɢᴇ 
+➪<b> /tr - ᴛᴏ ᴛʀᴀɴsʟᴀᴛᴇ ᴛᴇxᴛs ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ʟᴀɴɢᴜᴀɢᴇ</b> 
 
 <b>● ɴᴏᴛᴇ ››</b>
 
-ᴡʜɪʟᴇ ᴜsɪɴɢ /tr ʏᴏᴜ sʜᴏᴜʟᴅ sᴘᴇᴄɪғʏ ᴛʜᴇ ʟᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇ
+<b>ᴡʜɪʟᴇ ᴜsɪɴɢ /tr ʏᴏᴜ sʜᴏᴜʟᴅ sᴘᴇᴄɪғʏ ᴛʜᴇ ʟᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇ</b>
 
 <b>● ᴇxᴀᴍᴘʟᴇ  ››</b>
 
-➪ ᴇɴ = ᴇɴɢʟɪsʜ 
+<b>➪ ᴇɴ = ᴇɴɢʟɪsʜ 
 ➪ ᴍʟ = ᴍᴀʟᴀʏᴀʟᴀᴍ
-➪ ᴛᴀᴍ = ᴛᴀᴍɪʟ
+➪ ᴛᴀᴍ = ᴛᴀᴍɪʟ</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
@@ -469,7 +470,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ➪ <b>/ban - ᴛᴏ ʙᴀɴ ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ </b>
 ➪ <b>/unban - ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ  </b>
-➪ <b>/tban - ᴛᴏ ᴛᴇᴍᴘᴏʀᴀʀɪʟʏ ʙᴀɴ ᴀ ᴜsᴇʀ 
+➪ <b>/tban - ᴛᴏ ᴛᴇᴍᴘᴏʀᴀʀɪʟʏ ʙᴀɴ ᴀ ᴜsᴇʀ </b>
 ➪<b> /mute - ᴛᴏ ᴍᴜᴛᴇ ᴀ ᴜsᴇʀ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ </b>
 ➪<b>/unmute - ᴛᴏ ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ </b>
 ➪<b>/tmute - ᴛᴏ ᴛᴇᴍᴘᴏʀᴀʀɪʟʏ ᴍᴜᴛᴇ ᴀ ᴜsᴇʀ </b>
