@@ -83,14 +83,13 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ /Luck <b>ᴏʀ</b> /Cownd <b>-</b> <b>sᴘɪɴ ᴀɴᴅ ᴛʀʏ ᴛᴏ ʏᴏᴜʀ ʟᴜᴄᴋ </b>
 
 ● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙱𝙴 𝙼𝚈 𝙱𝙴𝚂𝚃 𝙵𝚁𝙸𝙴𝙽𝙳..?</b> 
+    DEPLOY_TXT = """<b>ʜᴏᴡ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ...?</b> 
   
-<b>✮ Tutorial ››</b> <i><b>https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</b></i>
+<b>● ᴛᴜᴛᴏʀɪᴀʟ ››</b> <i><b>https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</b></i>
 
-<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙱𝙴 𝙼𝚈 𝙱𝙴𝚂𝚃 𝙵𝚁𝙸𝙴𝙽𝙳 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
+<b>ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ <a href=https://t.me/themastertheblaster>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</a></b>
 
-<b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Mkv_bots><b>𝙼𝙺𝚅 𝙱𝙾𝚃𝚂</b></a>"""
+● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and <b>ѕτєνє</b>  will respond whenever a keyword is found the message
