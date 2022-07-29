@@ -219,13 +219,15 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ᴇᴠᴇʀʏᴏɴᴇ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ , ɪғ sᴘᴀᴍɪɴɢ ʜᴀᴘᴘᴇɴs ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʙᴀɴ ʏᴏᴜ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.</b>
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    PURGE_TXT = """<b>Purge</b>
+    PURGE_TXT = """<b>● ʜᴇʟᴘ : ᴘᴜʀɢᴇ
     
-Delete A Lot Of Messages From Groups! 
+ᴅᴇʟᴇᴛᴇ ᴀ ʟᴏᴛ ᴏғ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ɢʀᴏᴜᴘs ! </b>
     
- <b>ADMIN</b> 
+<b>● ᴀᴅᴍɪɴ ››</b>
 
-◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
+➪<b> /purge - ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴛʜᴇ ʀᴇᴘʟɪᴇᴅ ᴛᴏ ᴍᴇssᴀɢᴇ, ᴛᴏ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴍᴇssᴀɢᴇ</b>
+
+<b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
 -<b>ѕτєνє</b> Supports both url and alert inline buttons.
