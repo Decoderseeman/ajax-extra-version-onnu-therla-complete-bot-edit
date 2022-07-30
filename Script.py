@@ -197,10 +197,10 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
     PRIVATEBOT_TXT = """<b>ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ...?
 
-›› ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ ʟɪᴋᴇ</b> <a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b></a>.
+›› ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ ʟɪᴋᴇ</b> <a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ ❣️</b></a>.
 <b>›› ᴡɪᴛʜ ᴀʟʟ ʏᴏᴜʀ ᴄʀᴇᴅɪᴛs
 ›› ᴡɪᴛʜ ʏᴏᴜʀ ᴏᴡɴᴇʀsʜɪᴘ
-›› ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </b><a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ รεεɱαɳ ❣️</b></a>.
+›› ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </b><a href=https://t.me/themastertheblaster><b>❣️ ∂εcσ∂εɾ ❣️</b></a>.
 
 <b>● ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
 
