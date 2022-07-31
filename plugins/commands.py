@@ -290,8 +290,7 @@ async def delete(bot, message):
     if reply and reply.media:
         msg = await message.reply("<b>ᴅᴇʟᴇᴛɪɴɢ...</b>🗑️", quote=True)
     else:
-        await message.reply('<b>ʀᴇᴘʟʏ ᴛᴏ ғɪʟᴇ ᴡɪᴛʜ /delete
- ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴇʟᴇᴛᴇ</b>', quote=True)
+        await message.reply('<b>ʀᴇᴘʟʏ ᴛᴏ ғɪʟᴇ ᴡɪᴛʜ /delete ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴇʟᴇᴛᴇ</b>', quote=True)
         return
 
     for file_type in ("document", "video", "audio"):
