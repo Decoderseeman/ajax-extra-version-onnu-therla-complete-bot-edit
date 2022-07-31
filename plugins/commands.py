@@ -66,7 +66,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔥 𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 🔥", url=invite_link.invite_link
+                    "🧑‍💻 ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 🧑‍💻", url=invite_link.invite_link
                 )
             ]
         ]
@@ -82,15 +82,17 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 𝗠𝗢𝗩𝗜𝗘𝗦 🎥', url='https://t.me/Mkv_blasters'),
-            InlineKeyboardButton('📺 𝗦𝗘𝗥𝗜𝗘𝗦 📺', url='https://t.me/mkv_serieshub')
+            InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/Mkv_movieshub'),
+            InlineKeyboardButton('📺 sᴇʀɪᴇs 📺', url='https://t.me/mkv_serieshub')
+            ],[
+            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌' url='https://t.me/mkv_blasters')
             ],[      
-            InlineKeyboardButton('ℹ️ 𝗛𝗘𝗟𝗣 ℹ️', callback_data='help'),
-            InlineKeyboardButton('🍻 𝗔𝗕𝗢𝗨𝗧 🍻', callback_data='about')
+            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help'),
+            InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ ᴍᴇ 🍻', callback_data='about')
             ],[
-            InlineKeyboardButton('🍿 𝗠𝗢𝗩𝗜𝗘 𝗖𝗟𝗨𝗕 🍿', url='https://t.me/mkv_requestroom')
+            InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ᴄʟᴜʙ 🍿', url='https://t.me/mkv_requestroom')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
