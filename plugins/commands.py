@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/Mkv_movieshub'),
             InlineKeyboardButton('📺 sᴇʀɪᴇs 📺', url='https://t.me/mkv_serieshub')
             ],[
-            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌' url='https://t.me/mkv_blasters')
+            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌', url='https://t.me/mkv_blasters')
             ],[      
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help'),
             InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ ᴍᴇ 🍻', callback_data='about')
@@ -89,7 +89,7 @@ async def start(client, message):
             InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/Mkv_movieshub'),
             InlineKeyboardButton('📺 sᴇʀɪᴇs 📺', url='https://t.me/mkv_serieshub')
             ],[
-            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌' url='https://t.me/mkv_blasters')
+            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌', url='https://t.me/mkv_blasters')
             ],[      
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help'),
             InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ ᴍᴇ 🍻', callback_data='about')
