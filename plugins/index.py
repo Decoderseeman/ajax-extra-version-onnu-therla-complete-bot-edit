@@ -104,17 +104,17 @@ async def send_for_index(bot, message):
         link = f"@{message.forward_from_chat.username}"
     buttons = [
         [
-            InlineKeyboardButton('Accept Index',
+            InlineKeyboardButton('ᴀᴄᴄᴇᴘᴛ ɪɴᴅᴇx',
                                  callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
         ],
         [
-            InlineKeyboardButton('Reject Index',
+            InlineKeyboardButton('ʀᴇᴊᴇᴄᴛ ɪɴᴅᴇx',
                                  callback_data=f'index#reject#{chat_id}#{message.message_id}#{message.from_user.id}'),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await bot.send_message(LOG_CHANNEL,
-                           f'#IndexRequest\n\nBy : {message.from_user.mention} (<code>{message.from_user.id}</code>)\nChat ID/ Username - <code> {chat_id}</code>\nLast Message ID - <code>{last_msg_id}</code>\nInviteLink - {link}',
+                           f'**#ɪɴᴅᴇx ʀᴇϙᴜᴇsᴛ** \n\n**ʙʏ**: {message.from_user.mention} **(**<code>{message.from_user.id}</code>**)**\n**ᴄʜᴀᴛ ɪᴅ/ᴜsᴇʀ ɴᴀᴍᴇ -** <code> {chat_id}</code>\n**ʟᴀsᴛ ᴍᴇssᴀɢᴇ ɪᴅ -** <code>{last_msg_id}</code>\n**ɪɴᴠɪᴛᴇ ʟɪɴᴋ -** {link}',
                            reply_markup=reply_markup)
     await message.reply('**ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ, ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴏᴅᴇʀᴀᴛᴏʀs ᴛᴏ ᴠᴇʀɪғʏ ᴛʜᴇ ғɪʟᴇs.**')
 
