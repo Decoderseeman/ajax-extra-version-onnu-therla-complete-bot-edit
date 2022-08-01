@@ -172,11 +172,7 @@ async def next_page(bot, query):
     settings = await get_settings(query.message.chat.id)
     if settings['button']:
         btn = [
-              ],[
-              InlineKeyboardButton('🎥 sᴜᴘᴘᴏʀᴛ 🎥', url='https://t.me/Mkv_blasters'),
-              InlineKeyboardButton('🎥 ɢʀᴏᴜᴘ 🎥', url='https://t.me/Mkv_requestroom'),
-              InlineKeyboardButton('🎥 ᴍᴋᴠ ʙᴏᴛs 🎥', url='https://t.me/Mkv_bots')
-              ],[
+              
             [
                 InlineKeyboardButton(
                     text=f"🪩{get_size(file.file_size)}➜ {file.file_name}", callback_data=f'files#{file.file_id}'
@@ -1363,11 +1359,7 @@ async def auto_filter(client, msg, spoll=False):
     pre = 'filep' if settings['file_secure'] else 'file'
     if settings["button"]:
         btn = [
-              ],[
-              InlineKeyboardButton('🎥 sᴜᴘᴘᴏʀᴛ 🎥', url='https://t.me/Mkv_blasters'),
-              InlineKeyboardButton('🎥 ɢʀᴏᴜᴘ 🎥', url='https://t.me/Mkv_requestroom'),
-              InlineKeyboardButton('🎥 ᴍᴋᴠ ʙᴏᴛs 🎥', url='https://t.me/Mkv_bots')
-              ],[
+              
             [
                 InlineKeyboardButton(
                     text=f"🪩{get_size(file.file_size)}➜ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
