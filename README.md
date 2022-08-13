@@ -2,7 +2,7 @@
   <img src="assets/Steve Harrington.jpg" alt="Steve Logo">
 </p>
 <h1 align="center">
-  <b>💔 ѕτєνє нαяяιиgτοи 💔</b>
+  <b>💔ѕτєνє нαяяιиgτοи💔</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
