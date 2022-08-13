@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/Steve Harrington.jpg" alt="Steve Logo">
 </p>
 <h1 align="center">
   <b>💔 ѕτєνє нαяяιиgτοи 💔</b>
