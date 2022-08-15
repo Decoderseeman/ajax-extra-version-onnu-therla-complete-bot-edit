@@ -85,7 +85,8 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ <b>/Luck</b> <b>ᴏʀ</b> <b>/Cownd</b> <b>-</b> <b>sᴘɪɴ ᴀɴᴅ ᴛʀʏ ᴛᴏ ʏᴏᴜʀ ʟᴜᴄᴋ </b>
 
 ● <b>ᴀʟʟ ᴄʀᴇᴅɪᴛs :</b> <a href=https://t.me/Mkv_bots><b>🤖 ᴍᴋᴠ ʙᴏᴛs 🤖</b></a>"""
-    SOURCE_TXT = """<b>ᴠᴀᴀ ᴀʀᴜɴᴀᴀᴄʜᴀʟᴏ ɴᴇᴇ ᴠᴀʀᴜᴠᴇɴɴᴜ ᴛʜᴇʀɪʏᴜ</b>"""
+    SOURCE_TXT = """
+<b>ᴠᴀᴀ ᴀʀᴜɴᴀᴀᴄʜᴀʟᴏ ɴᴇᴇ ᴠᴀʀᴜᴠᴇɴɴᴜ ᴛʜᴇʀɪʏᴜ</b>"""
     DEPLOY_TXT = """<b>ʜᴏᴡ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ...?</b> 
   
 <b>● ᴛᴜᴛᴏʀɪᴀʟ ››</b> <i><b>https://youtube.com/channel/UCdk53DCXKoKOKgKeohUEnmA</b></i>
