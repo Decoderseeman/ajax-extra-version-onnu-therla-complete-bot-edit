@@ -764,9 +764,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ 🍻', callback_data='about'),
             InlineKeyboardButton('📦 sᴏᴜʀᴄᴇ 📦', callback_data='source')
             ],[
-            InlineKeyboardButton
-            ],[
-            InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ᴄʟᴜʙ 🍿', url='https://t.me/mkv_requestroom')
+            InlineKeyboardButton('📚 ʀᴇɴᴀᴍᴇ ʙᴏᴛ 📚' url='https://t.me/mkvsteverename_bot'),
+            InlineKeyboardButton('🔗 ғɪʟᴇ ᴛᴏ ʟɪɴᴋ 🔗' url='https://t.me/mkvstevefiletolink_bot')
+           
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
