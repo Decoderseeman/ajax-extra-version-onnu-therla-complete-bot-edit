@@ -41,15 +41,25 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/Mkv_movieshub'),
+            InlineKeyboardButton('🎯 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ  🎯', url='https://t.me/Mkv_blasters'),
+            InlineKeyboardButton('🍿 ʀᴇϙᴜᴇsᴛ ɢʀᴏᴜᴘ 🍿', url='https://t.me/mkv_requestroom')
+            ],[
+            InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/mkv_movieshub'),
             InlineKeyboardButton('📺 sᴇʀɪᴇs 📺', url='https://t.me/mkv_serieshub')
+            ],[ 
+            InlineKeyboardButton('📀 ᴘʀᴇᴅᴠᴅ 📀', url='https://t.me/mkv_predvdhub'),
+            InlineKeyboardButton('🔰ʜᴇᴠᴄ ᴍᴏᴠɪᴇs 🔰', url='https://t.me/mkv_hevc')
             ],[
-            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌', url='https://t.me/mkv_blasters')
-            ],[      
+            InlineKeyboardButton('⭕ ʜᴏʟʟʏᴡᴏᴏᴅ ⭕', url='https://t.me/mkv_hollywood'),
+            InlineKeyboardButton('🤖 ᴍᴋᴠ ʙᴏᴛs 🤖', url='https://t.me/mkv_bots')
+            ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help'),
-            InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ ᴍᴇ 🍻', callback_data='about')
+            InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ 🍻', callback_data='about'),
+            InlineKeyboardButton('📦 sᴏᴜʀᴄᴇ 📦', callback_data='source')
             ],[
-            InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ᴄʟᴜʙ 🍿', url='https://t.me/mkv_requestroom')
+            InlineKeyboardButton('📚 ʀᴇɴᴀᴍᴇ ʙᴏᴛ 📚' url='https://t.me/mkvsteverename_bot'),
+            InlineKeyboardButton('🔗 ғɪʟᴇ ᴛᴏ ʟɪɴᴋ 🔗' url='https://t.me/mkvstevefiletolink_bot')
+           
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -86,15 +96,25 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/Mkv_movieshub'),
+            InlineKeyboardButton('🎯 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ  🎯', url='https://t.me/Mkv_blasters'),
+            InlineKeyboardButton('🍿 ʀᴇϙᴜᴇsᴛ ɢʀᴏᴜᴘ 🍿', url='https://t.me/mkv_requestroom')
+            ],[
+            InlineKeyboardButton('🎥 ᴍᴏᴠɪᴇs 🎥', url='https://t.me/mkv_movieshub'),
             InlineKeyboardButton('📺 sᴇʀɪᴇs 📺', url='https://t.me/mkv_serieshub')
+            ],[ 
+            InlineKeyboardButton('📀 ᴘʀᴇᴅᴠᴅ 📀', url='https://t.me/mkv_predvdhub'),
+            InlineKeyboardButton('🔰ʜᴇᴠᴄ ᴍᴏᴠɪᴇs 🔰', url='https://t.me/mkv_hevc')
             ],[
-            InlineKeyboardButton('💌 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💌', url='https://t.me/mkv_blasters')
-            ],[      
+            InlineKeyboardButton('⭕ ʜᴏʟʟʏᴡᴏᴏᴅ ⭕', url='https://t.me/mkv_hollywood'),
+            InlineKeyboardButton('🤖 ᴍᴋᴠ ʙᴏᴛs 🤖', url='https://t.me/mkv_bots')
+            ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', callback_data='help'),
-            InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ ᴍᴇ 🍻', callback_data='about')
+            InlineKeyboardButton('🍻 ᴀʙᴏᴜᴛ 🍻', callback_data='about'),
+            InlineKeyboardButton('📦 sᴏᴜʀᴄᴇ 📦', callback_data='source')
             ],[
-            InlineKeyboardButton('🍿 ᴍᴏᴠɪᴇ ᴄʟᴜʙ 🍿', url='https://t.me/mkv_requestroom')
+            InlineKeyboardButton('📚 ʀᴇɴᴀᴍᴇ ʙᴏᴛ 📚' url='https://t.me/mkvsteverename_bot'),
+            InlineKeyboardButton('🔗 ғɪʟᴇ ᴛᴏ ʟɪɴᴋ 🔗' url='https://t.me/mkvstevefiletolink_bot')
+           
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
