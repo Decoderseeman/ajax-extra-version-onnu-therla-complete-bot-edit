@@ -54,14 +54,17 @@ async def inline_short(bot, update):
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
 
-    # Drop.link shorten
-    if DROPLINK_API:
-        try:
-            s = Shortener(api_key=DROPLINK_API)
-            url = s.droplink.short(link)
-            shorten_urls += f"\n**Droplink :-** {url}"
-        except Exception as error:
-            print(f"Drop.link error :- {error}")
+    # Drop.link shorten 
+    try:
+        api_url = "https://Droplink.co/api"
+        params = {'api': DROPLINK_API, 'url': link}
+        async with aiohttp.ClientSession() as session:
+            async with session.get(api_url, params=params, raise_for_status=True) as response:
+                data = await response.json()
+                url = data["shortenedUrl"]
+                shorten_urls += f"\n**Droplink.co :-** {url}"
+    except Exception as error:
+        print(f"Droplink error :- {error}")
     
     # Bit.ly shorten
     if BITLY_API:
