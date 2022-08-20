@@ -55,8 +55,7 @@ async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
 
     # Drop.link shorten 
-    if DROPLINK_API:
-    try:
+       try:
         api_url = "https://Droplink.co/api"
         params = {'api': DROPLINK_API, 'url': link}
         async with aiohttp.ClientSession() as session:
