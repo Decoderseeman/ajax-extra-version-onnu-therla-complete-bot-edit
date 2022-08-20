@@ -5,6 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InlineQue
 from pyrogram.handlers import MessageHandler
 from pyshorteners import Shortener
 
+DROPLINK_API = os.environ.get("DROPLINK_API", "b579ae1ed9f764939706b33e715244a7be80347e")
 BITLY_API = os.environ.get("BITLY_API", "8df1df8c23f719e5cf97788cc2d40321ea30092b")
 CUTTLY_API = os.environ.get("CUTTLY_API", "f64dffbde033b6c307387dd50b7c76e505f1c")
 SHORTCM_API = os.environ.get("SHORTCM_API", "pk_...NIZv")
@@ -52,6 +53,15 @@ async def inline_short(bot, update):
 
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
+
+    # Drop.link shorten
+    if DROPLINK_API:
+        try:
+            s = Shortener(api_key=DROPLINK_API)
+            url = s.droplink.short(link)
+            shorten_urls += f"\n**Droplink :-** {url}"
+        except Exception as error:
+            print(f"Drop.link error :- {error}")
     
     # Bit.ly shorten
     if BITLY_API:
